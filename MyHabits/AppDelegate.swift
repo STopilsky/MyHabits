@@ -4,7 +4,6 @@
 //
 //  Created by Сергей Топильский on 16.01.2023.
 //
-
 import UIKit
 
 @main
